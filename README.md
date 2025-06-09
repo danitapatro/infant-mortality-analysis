@@ -11,10 +11,10 @@ This project analyzes infant mortality trends from **2000 to 2024** across diffe
 
 Using publicly available datasets from trusted sources like the **World Health Organization (WHO)**, **Our World in Data (OWID)**, and the **Centers for Disease Control and Prevention (CDC)**, this project demonstrates:
 
-- ✅ Data cleaning and preprocessing techniques  
-- ✅ Exploratory Data Analysis (EDA) with rich visualizations (time series, maps, demographic breakdowns)  
-- ✅ Potential clustering or grouping of countries based on infant mortality characteristics  
-- ✅ Storytelling through data to highlight ongoing challenges and opportunities for improving infant health outcomes
+-  Data cleaning and preprocessing techniques  
+-  Exploratory Data Analysis (EDA) with rich visualizations (time series, maps, demographic breakdowns)  
+-  Potential clustering or grouping of countries based on infant mortality characteristics  
+-  Storytelling through data to highlight ongoing challenges and opportunities for improving infant health outcomes
 
 The project is built using Python libraries including **pandas**, **matplotlib**, **seaborn**, and interactive tools like **plotly**.
 
