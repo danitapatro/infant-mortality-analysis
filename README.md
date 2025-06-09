@@ -1,7 +1,7 @@
 ##Infant Mortality Analysis: Data-Driven Insights on Fatal Causes Despite Healthcare Advances
 Infant mortality remains one of the most critical indicators of public health and social development worldwide. Despite significant advancements in healthcare technology and prenatal care, many regions still face high rates of infant deaths due to various preventable causes.
 
-This project aims to analyze infant mortality trends from 2010 to 2024 across different countries and regions, focusing on:
+This project aims to analyze infant mortality trends from 2000 to 2024 across different countries and regions, focusing on:
 
 Time-based trends: How infant mortality rates have changed over the last two decades globally and regionally.
 
