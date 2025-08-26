@@ -98,7 +98,11 @@ The project generates multiple insights through charts:
 ---
 
 ## 🛠️ Requirements
-(…requirements.txt…)
+All dependencies are listed in [requirements.txt](requirements.txt).  
+Install them with:
+```bash
+pip install -r requirements.txt
+```
 
 ## 👩‍💻 Author
 Anita
